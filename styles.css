@@ -1,0 +1,23 @@
+.main {
+	text-align: center;
+	align: center;
+	margin: 0 auto;
+	width: 700px;
+}
+.menu {
+	background: rgb(235, 177, 68);
+}
+.text {
+	background: rgb(69, 43, 126);
+	color: white;
+	padding: 10px;
+}
+.photo img {
+	width: 700px;
+}
+a {
+	color: white;
+}
+.main img {
+	width: 650px;
+}
